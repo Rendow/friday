@@ -1,0 +1,28 @@
+.header{
+    height: 60px;
+    background: #78c5c7;
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+
+    text-decoration: none;
+    outline: none;
+}
+.wrap{
+    margin-top: 60px;
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    width: 560px;
+}
+.nav a{
+    text-decoration: unset;
+    color: black;
+}
